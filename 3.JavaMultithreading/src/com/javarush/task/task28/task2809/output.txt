@@ -1,0 +1,21 @@
+Plant #1 joined the game
+Plant #2 has joined the game
+Plant #1 is getting ready to play
+Zombie #1 joined the game
+Zombie #2 joined the game
+Zombie #3 joined the game
+Plant #2 getting ready to play
+Zombie #2 getting ready to play
+Zombie #1 getting ready to play
+Zombie #3 getting ready to play
+The game has begun!
+Zombie #1 has entered the game
+Zombie #3 has entered the game
+Plant #1 has entered the game
+Zombie #2 has entered the game
+Plant #2 has entered the game
+Zombie #2 has died
+Plant #2 is dead
+Plant #1 is dead
+Zombie #3 has died
+Zombie #1 has died
