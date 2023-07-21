@@ -1,6 +1,6 @@
 # JavaRush Learning Project
 
-This repository contains the tasks completed during the JavaRush course. The course covers various topics including Java Core, Java Multithreading, and Java Collections.
+This repository contains the tasks completed during the JavaRush course. The course covers various topics such as Java Core, Java Multithreading, and Java Collections.
 
 ## Project Structure
 
