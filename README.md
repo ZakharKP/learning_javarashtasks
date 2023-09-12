@@ -15,7 +15,7 @@ The project is organized into three main packages:
 
 - For each task, there is an accompanying `README.md` file that contains a more detailed description of the task and the solution implemented.
 
-##Directory Structure:
+## Directory Structure:
 
 ## Java Core Tasks
 
