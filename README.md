@@ -13,18 +13,19 @@ The project is organized into three main packages:
 
 ## Additional Notes
 
-- For each task, there is an accompanying `TaskName.md` file that contains a more detailed description of the task and the solution implemented.
+- For each task, there is an accompanying `README.md` file that contains a more detailed description of the task and the solution implemented.
 
+##Directory Structure:
 
 ## Java Core Tasks
 
 ### Task 2016
 - Package: `com.javarush.task.task20.task2016`
-- Description: Brief description of the task.
+- Description:`JavaCore/src/com/javarush/task/task20/task2016/README.md`.
 
 ### Task 2017
 - Package: `com.javarush.task.task20.task2017`
-- Description: Brief description of the task.
+- Description: `JavaCore/src/com/javarush/task/task20/task2017/README.md`
 
 ...
 
@@ -32,11 +33,7 @@ The project is organized into three main packages:
 
 ### Task 2312
 - Package: `com.javarush.bigtask.task23.task2312`
-- Description: Brief description of the task.
-
-### Task 2306
-- Package: `com.javarush.task.task23.task2306`
-- Description: Brief description of the task.
+- Description:  `JavaMultithreading/src/com.javarush.bigtask.task23.task2312.README.md`
 
 ...
 
@@ -44,10 +41,6 @@ The project is organized into three main packages:
 
 ### Task 3310
 - Package: `com.javarush.bigtask.task33.task3310`
-- Description: Brief description of the task.
-
-### Task 3501
-- Package: `com.javarush.task.task35.task3501`
-- Description: Brief description of the task.
+- Description: `JavaCollections/src/com/javarush/bigtask/task33/task3310/README.md` 
 
 ...
